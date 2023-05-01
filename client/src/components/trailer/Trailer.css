@@ -1,0 +1,4 @@
+/* Make the play take up 90% of the viewport height. */
+.react-player-container{
+    height: 90vh;
+}
